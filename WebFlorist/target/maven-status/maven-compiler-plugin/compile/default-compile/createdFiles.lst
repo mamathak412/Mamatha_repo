@@ -1,0 +1,11 @@
+com\web\blosom\model\Admin.class
+com\web\blosom\interceptor\CxfInPutHandler.class
+com\web\blosom\model\Flowers.class
+com\web\blosom\dao\FlowersDAOImpl.class
+com\web\blosom\rest\model\FlowersWs.class
+com\web\blosom\model\Order.class
+com\web\blosom\model\Customer.class
+com\web\blosom\interceptor\CxfOutPutHandler.class
+com\web\blosom\entity\WBFLowers.class
+com\web\blosom\service\FlowerServiceImpl.class
+com\web\blosom\ws\rest\FlowersRestServiceImpl.class
